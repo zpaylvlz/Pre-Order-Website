@@ -1,0 +1,6 @@
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\bin\Booking.dll.config
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\bin\Booking.dll
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\bin\Booking.pdb
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\obj\Debug\Booking.csprojResolveAssemblyReference.cache
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\obj\Debug\Booking.dll
+c:\users\zpay\documents\visual studio 2013\Projects\Booking\Booking\obj\Debug\Booking.pdb
